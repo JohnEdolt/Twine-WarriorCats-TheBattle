@@ -1,0 +1,37 @@
+:: StoryTitle
+Warrior Cats - The Battle
+
+
+:: StoryData
+{
+  "ifid": "7E32059B-19AF-4312-85EB-C2ADFB45D79A",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Prolog",
+  "zoom": 1
+}
+
+
+:: Prolog {"position":"475,225","size":"100,100"}
+Es war ein warmer Tag in der Blattfrische. Die Sonnenstrahlen glänzten auf der Wasseroberfläche eines Kleinen Bachs. In der Nähe war Vogenzwitschern zu hören. Eine Grenzpatrouille des Sonnen Clans trotettete entlang der Grenze mit dem Wurzel Clan. " Irgendwas Stimmt hier nicht..." miaute eine orangene Kätzin. " Der Wurzel Clan hat mal wieder seine Duftmarkierungen zu sehr in unser Territorium gesetzt!" maute ein anderer Kater. [[Es raschelte auf der anderen Seite der Grenze|Prolog 2]]
+
+
+:: Prolog 2 {"position":"575,225","size":"100,100"}
+"Dornenfuß..." zischte die orangene Kätzin. "Warum habt ihr die Grenze verschoben?". Der braune Kater mit der Weißen Nase trat aus den Farnen heraus. "Der Sonnen Clan hat doch zu viel Territorium! Trotz der Blattfrische haben wir viel zu viele Mäuler zu stopfen! Wir brauchen das Territorium mehr als ihr" "Du weißt, dass das nicht stimmt!" konterte Ein Grauer Krieger des Sonnen Clans. "Dornenfuß!" ein pechschwarzer Kater kam aus dem Gebüsch. "Die anderen sind fertig mit der Grenze zum Stein Clan. Sie kommen jetzt hier her." "Gut." antwortetet der braune Kater. " Sonennclan. Habt ihr noch etwas gegen die neue Grenze einzuwenden? Falls ja... [[Dann müsst ihr um sie kämpfen!"|Prolog 3]]
+
+
+:: Prolog 3 {"position":"675,225","size":"100,100"}
+"Wir werden um unsere Grenzen kämpfen!" maiute ein braun gestreifter Schüler des Sonnenclans. "Werden wir, oder Tulpenschweif?" Die orangene Kriegerin kniff die Augen zusammen. [[Start]]
+
+
+:: Start {"position":"675,350","size":"100,100"}
+To do:
+-Beschreibung des Charakters und der Lage 
+- >> Ringelpfote
+ (Beschreibung der Lage >>Kampf)
+ 
+ "Renn zurück zum Lager und hohle Verstärkung!" schrie Tulpenschweif voller Verzweiflung bevor sie sich in den Kampf stürzte. Voller Panick schaute Ringelpfote sich um und [[rannte los|Wald]]
+
+
+:: Wald {"position":"675,475","size":"100,100"}
+
